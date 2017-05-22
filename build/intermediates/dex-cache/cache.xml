@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\KATnapper\Desktop\Todo\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="f58ce400cf18f29cb15c6fb067696f45dca02aed">
+        <dex dex="C:\Users\KATnapper\Desktop\Todo\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_7d427e65e764b2d971493a8c1eba2648241384a1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\KATnapper\Desktop\Todo\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="C:\Users\KATnapper\Desktop\Todo\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_911ab6d5551339140ca04b220e264ee135912bb1\classes.dex" />
+    </item>
+
+</items>

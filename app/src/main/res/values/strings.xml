@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Todo</string>
+    <string-array name="todos">
+        <item>Study for exam</item>
+        <item>Play dota</item>
+        <item>Watch a movie</item>
+        <item>Clean Your Room</item>
+        <item>Clean Your library</item>
+
+    </string-array>
+
+</resources>

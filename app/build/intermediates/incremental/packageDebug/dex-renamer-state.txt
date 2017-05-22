@@ -1,0 +1,7 @@
+#Sun May 21 16:56:36 IST 2017
+base.0=C\:\\Users\\KATnapper\\Desktop\\Todo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_7d427e65e764b2d971493a8c1eba2648241384a1
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\KATnapper\\Desktop\\Todo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_911ab6d5551339140ca04b220e264ee135912bb1\\classes.dex
+base.1=C\:\\Users\\KATnapper\\Desktop\\Todo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_911ab6d5551339140ca04b220e264ee135912bb1
+file.0=C\:\\Users\\KATnapper\\Desktop\\Todo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_7d427e65e764b2d971493a8c1eba2648241384a1\\classes.dex
